@@ -4,8 +4,8 @@ Tutorial on Graph Nural Networks for Drug Discovery with Pytorch
 
 ## Presentation
 
-- [Slides](slides.pdf)
-- [Colab](https://github.com/.../TMLS 2022)
+- [Slides](https://github.com/NasimAbdollahi/Talks/blob/master/TMLS%202022/Slides.pdf)
+- [Colab]()
 - [Colab]()
 - [Colab]()
 
