@@ -9,4 +9,4 @@
 ## Blog
 | Topic | Website | Date | 
 | --- | --- | --- |
-| [Protein residue characterization using AlphaFold](https://blog.cyclicarx.com/protein-residue-characterization-using-alphafold) | [Cyclica AlphaFold Blog]([https://www.torontomachinelearning.com/](https://blog.cyclicarx.com/tag/alphafold)) | Jan 5, 2022 |
+| [Protein residue characterization using AlphaFold](https://blog.cyclicarx.com/protein-residue-characterization-using-alphafold) | [Cyclica Blog](https://www.torontomachinelearning.com/](https://blog.cyclicarx.com/tag/alphafold) | Jan 5, 2022 |
